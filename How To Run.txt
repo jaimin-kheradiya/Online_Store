@@ -1,0 +1,9 @@
+open file location 
+
+C:\FLUTTER\SDK\online_store
+
+open cmd and write ----> flutter run 
+
+if want to run in mobile the open developer option by 7 click on os of mobile and then start developer option and also start install via usb 
+
+then in vs code in bottom you show no device click on this and you can select your device / mobile name
